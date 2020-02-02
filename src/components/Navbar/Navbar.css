@@ -1,0 +1,23 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background: rgb(34,56,80);
+    background: linear-gradient(0deg, rgba(34,56,80,1) 0%, rgba(37,58,85,1) 100%);
+}
+.logoHeader {
+    display: flex;
+    justify-content: center;
+}
+.navbar--list {
+    display: flex;
+    flex-direction: row;
+}
+.cryptos {
+    display: flex;
+    flex-direction: row;
+}
+.listItem {
+    margin-left: 10px;
+    margin-right: 10px;
+}
